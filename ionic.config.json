@@ -1,0 +1,8 @@
+{
+  "name": "liveslotsdevionic",
+  "app_id": "adf3432d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
